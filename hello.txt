@@ -3,3 +3,4 @@ Hello, world!
 Commit from Buddy!
 
 Change CDE
+Change DEF
